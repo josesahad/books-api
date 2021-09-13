@@ -1,4 +1,4 @@
-module github.com/josesahad/books-api
+module books-api
 
 go 1.17
 
