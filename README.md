@@ -1,4 +1,4 @@
-# A single Go app to collect books data
+# A simple Go app to collect books data
 
 ## To add a new book
 curl http://localhost:8080/books \
